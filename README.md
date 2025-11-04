@@ -1,4 +1,4 @@
- <header>
+ه <header>
     <img src="PUT-LINK-HERE" alt="Dr. Abdulghani Nasser Jaafar">
     <h1>Dr. Abdulghani Nasser Jaafar</h1>
     <h3>General Practitioner (GP), MBBS</h3>
@@ -7,8 +7,8 @@
 
   <section>
     <h2>🩺 About Me | من أنا</h2>
-    <p><strong>English:</strong> I am a Yemeni general practitioner passionate about internal medicine and evidence-based clinical practice. I graduated among the top students in my class and I am dedicated to providing high-quality medical care with minimal reliance on unnecessary tests, focusing instead on accurate diagnosis through detailed patient history and clinical reasoning.</p>
-    <p><strong>العربية:</strong> أنا طبيب عام يمني شغوف بالطب الباطني والممارسة الطبية المبنية على الدليل. تخرجت ضمن أوائل دفعتي وأسعى لتقديم رعاية طبية عالية الجودة بالاعتماد على القصة المرضية والفحص السريري الدقيق أكثر من الفحوصات غير الضرورية.</p>
+    <p><strong>English:</strong> I am a Yemeni general practitioner passionate about internal medicine and evidence-based clinical practice.  I am dedicated to providing high-quality medical care with minimal reliance on unnecessary tests, focusing instead on accurate diagnosis through detailed patient history and clinical reasoning.</p>
+    <p><strong>العربية:</strong> أنا طبيب عام يمني شغوف بالطب الباطني والممارسة الطبية المبنية على الدليل. تخرجت من كلية الطب وأسعى لتقديم رعاية طبية عالية الجودة بالاعتماد على القصة المرضية والفحص السريري الدقيق أكثر من الفحوصات غير الضرورية.</p>
   </section>
 
   <section>
