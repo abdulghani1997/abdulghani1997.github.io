@@ -13,8 +13,8 @@
 
   <section>
     <h2>🎓 Education | التعليم</h2>
-    <p><strong>English:</strong> Bachelor of Medicine and Bachelor of Surgery (MBBS), University of Amran — Graduation Year: 2025.</p>
-    <p><strong>العربية:</strong> بكالوريوس طب وجراحة – جامعة عمران (سنة التخرج 2025).</p>
+    <p><strong>English:</strong> Bachelor of Medicine and Bachelor of Surgery (MBBS), University of Amran — Graduation Year: 2023.</p>
+    <p><strong>العربية:</strong> بكالوريوس طب وجراحة – جامعة عمران (سنة التخرج 2023).</p>
   </section>
 
   <section>
